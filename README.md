@@ -1,134 +1,250 @@
-# Priyadharshini E | Full-Stack Developer
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=600&height=100&lines=Priyadharshini+E;Full-Stack+Developer;ML+Enthusiast;Creative+Designer" alt="Typing SVG" />
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/priyadharshini-e/)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:priyaiasdharshini@gmail.com)
+<div align="center">
+  <img src="https://github.com/priyaiasdharshini/priyaiasdharshini/blob/main/assets/header-banner.png" width="100%" alt="banner">
+</div>
 
-## 👋 About Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/priyadharshini-e/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:priyaiasdharshini@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/priyaiasdharshini"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
-Information Technology graduate specializing in full-stack development (MERN stack) and machine learning (Python, TensorFlow). Skilled in building responsive web applications (React, JavaScript). Proficient in database systems (SQL, MongoDB) and cloud platforms (AWS). Strong foundation in data structures, algorithms, and software engineering principles. Experience across the full SDLC with expertise in UI/UX design (Figma) and Agile methodologies.
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=priyaiasdharshini&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+</div>
 
-## 💻 Tech Stack
+<br>
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+## 🌟 About Me
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<div align="center">
+  <table>
+    <tr>
+      <td width="60%">
+        <p>
+          Information Technology professional with expertise in full-stack development (MERN) and machine learning. My passion lies in creating intuitive user experiences through elegant front-end design and robust back-end architecture.
+        </p>
+        <p>
+          I combine technical skills with creative thinking to deliver solutions that are not just functional but delightful to use. My background in data structures, algorithms, and software engineering principles allows me to approach problems with a holistic perspective.
+        </p>
+        <p>
+          Currently focused on enhancing my skills in deep learning and advanced front-end architectures.
+        </p>
+      </td>
+      <td width="40%">
+        <div align="center">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyaiasdharshini&layout=donut-vertical&theme=midnight-purple&hide_border=true" alt="Language Stats" width="100%">
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
-### Tools & Platforms
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+## 💻 Tech Universe
 
-## 🔭 Experience
+<div align="center">
+  <h3>Languages & Frameworks</h3>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,java,c,react,nodejs,tensorflow,flask,mongodb,mysql,postgres,aws,docker,kubernetes,figma&perline=9" />
+  
+  <h3>Tools & Platforms</h3>
+  <p>
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+    <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+  </p>
+</div>
 
-### Frontend Developer | Aazad Academy
-**Current Position**
-- Building responsive web applications using modern JavaScript and React frameworks
-- Creating optimized user experiences with cross-browser compatibility
-- Implementing accessibility standards for inclusive web design
+## 🌈 Professional Journey
 
-## 🚀 Projects
+<div align="center">
+  <table>
+    <tr>
+      <td width="33%" align="center">
+        <h3>💼 Experience</h3>
+        <img src="https://raw.githubusercontent.com/priyaiasdharshini/priyaiasdharshini/main/assets/work.gif" width="100px" height="100px">
+        <p><strong>Frontend Developer</strong><br>Aazad Academy</p>
+        <ul align="left">
+          <li>Building responsive React applications</li>
+          <li>Optimizing UX with cross-browser compatibility</li>
+          <li>Implementing accessibility standards</li>
+        </ul>
+      </td>
+      <td width="33%" align="center">
+        <h3>🎓 Education</h3>
+        <img src="https://raw.githubusercontent.com/priyaiasdharshini/priyaiasdharshini/main/assets/education.gif" width="100px" height="100px">
+        <p><strong>B.Tech in Information Technology</strong><br>Mepco Schlenk Engineering College</p>
+        <p>2020 - 2024 | GPA: 7.2</p>
+      </td>
+      <td width="33%" align="center">
+        <h3>🏆 Certifications</h3>
+        <img src="https://raw.githubusercontent.com/priyaiasdharshini/priyaiasdharshini/main/assets/certificate.gif" width="100px" height="100px">
+        <p>14+ Professional Certifications</p>
+        <p>Including credentials from:<br>Guvi, Oxford University, IIT Bombay, Infosys Springboard</p>
+      </td>
+    </tr>
+  </table>
+</div>
 
-### Diabetic Retinopathy Classification | Deep Learning
-**Nov 2023 - Apr 2024**
+## 🚀 Featured Projects
 
-Developed an advanced image classification system for diabetic retinopathy diagnosis:
-- Built a hybrid deep learning model with optimization algorithms
-- Automated severity-based classification to enhance diagnostic accuracy
-- Implemented computer vision techniques using Python, TensorFlow/Keras
-- Optimized model performance and efficiency for real-world applications
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">Diabetic Retinopathy Classification</h3>
+        <div align="center">
+          <a href="https://github.com/priyaiasdharshini/diabetic-retinopathy" target="_blank">
+            <img src="https://dummyimage.com/600x400/6A5ACD/ffffff&text=Diabetic+Retinopathy" width="100%" alt="Project"/>
+          </a>
+          <p>
+            <a href="https://github.com/priyaiasdharshini/diabetic-retinopathy" target="_blank">
+              <img src="https://img.shields.io/badge/Code-40AEF0?style=for-the-badge&logo=github&logoColor=white" />
+            </a>  
+            <a href="#" target="_blank">
+              <img src="https://img.shields.io/badge/Demo-5C2D91?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABmJLR0QA/wD/AP+gvaeTAAABIklEQVRIie2UMUpEMRSGvyfWgo2NIOxauQA2c4OBWQVSucIu2NrpDmyEWQZ2GjvBhZ0gCDayhYiNCDbPIhOy8prJvHmV4A8h5Ob8+XPy8pIbGDr+lafBg1fgGpgmTgHcAsfAXS9caQNgCbwBY2AEnLjuAWf/Aue0fgHHZfHKcqKldJwDd7kAEpvAGfANXOYECGwr6gNY6AAhLwLYUvS3BsRxDuxLtKPbGriRdEhIrSvqQ5XrwTSwJuk+qoY0UPQ6AyCuvcJGY7eGRnQ5CRB34jgARuX/FBgnAGYSH4CNshhgT+I3sJsAGA/7aTCeVnFMuifxILBPPeytQM4I96oFcKi7ebRe6e4EeMzUiWn5qgbwCVxJ2pfUBfDw54aGDt/5qmX3yhJ1IAAAAABJRU5ErkJggg==" />
+            </a>
+          </p>
+          <p><strong>TensorFlow/Keras, Python, OpenCV</strong></p>
+          <p>Advanced deep learning system that automatically classifies diabetic retinopathy severity from retinal images with high accuracy.</p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">Instagram Redesign</h3>
+        <div align="center">
+          <a href="https://github.com/priyaiasdharshini/instagram-redesign" target="_blank">
+            <img src="https://dummyimage.com/600x400/FF5A5F/ffffff&text=Instagram+Redesign" width="100%" alt="Project"/>
+          </a>
+          <p>
+            <a href="https://github.com/priyaiasdharshini/instagram-redesign" target="_blank">
+              <img src="https://img.shields.io/badge/Code-40AEF0?style=for-the-badge&logo=github&logoColor=white" />
+            </a>
+            <a href="#" target="_blank">
+              <img src="https://img.shields.io/badge/Live-FF5A5F?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABmJLR0QA/wD/AP+gvaeTAAABIklEQVRIie2UMUpEMRSGvyfWgo2NIOxauQA2c4OBWQVSucIu2NrpDmyEWQZ2GjvBhZ0gCDayhYiNCDbPIhOy8prJvHmV4A8h5Ob8+XPy8pIbGDr+lafBg1fgGpgmTgHcAsfAXS9caQNgCbwBY2AEnLjuAWf/Aue0fgHHZfHKcqKldJwDd7kAEpvAGfANXOYECGwr6gNY6AAhLwLYUvS3BsRxDuxLtKPbGriRdEhIrSvqQ5XrwTSwJuk+qoY0UPQ6AyCuvcJGY7eGRnQ5CRB34jgARuX/FBgnAGYSH4CNshhgT+I3sJsAGA/7aTCeVnFMuifxILBPPeytQM4I96oFcKi7ebRe6e4EeMzUiWn5qgbwCVxJ2pfUBfDw54aGDt/5qmX3yhJ1IAAAAABJRU5ErkJggg==" />
+            </a>
+          </p>
+          <p><strong>Figma, UX Research, UI Design</strong></p>
+          <p>Modern reimagining of Instagram's interface focusing on cleaner layouts, intuitive navigation, and enhanced visual aesthetics.</p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">Rishi Cozy Cabin</h3>
+        <div align="center">
+          <a href="https://github.com/priyaiasdharshini/rishi-cozy-cabin" target="_blank">
+            <img src="https://dummyimage.com/600x400/3B82F6/ffffff&text=Rishi+Cozy+Cabin" width="100%" alt="Project"/>
+          </a>
+          <p>
+            <a href="https://github.com/priyaiasdharshini/rishi-cozy-cabin" target="_blank">
+              <img src="https://img.shields.io/badge/Code-40AEF0?style=for-the-badge&logo=github&logoColor=white" />
+            </a>
+            <a href="#" target="_blank">
+              <img src="https://img.shields.io/badge/Live-3B82F6?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABmJLR0QA/wD/AP+gvaeTAAABIklEQVRIie2UMUpEMRSGvyfWgo2NIOxauQA2c4OBWQVSucIu2NrpDmyEWQZ2GjvBhZ0gCDayhYiNCDbPIhOy8prJvHmV4A8h5Ob8+XPy8pIbGDr+lafBg1fgGpgmTgHcAsfAXS9caQNgCbwBY2AEnLjuAWf/Aue0fgHHZfHKcqKldJwDd7kAEpvAGfANXOYECGwr6gNY6AAhLwLYUvS3BsRxDuxLtKPbGriRdEhIrSvqQ5XrwTSwJuk+qoY0UPQ6AyCuvcJGY7eGRnQ5CRB34jgARuX/FBgnAGYSH4CNshhgT+I3sJsAGA/7aTCeVnFMuifxILBPPeytQM4I96oFcKi7ebRe6e4EeMzUiWn5qgbwCVxJ2pfUBfDw54aGDt/5qmX3yhJ1IAAAAABJRU5ErkJggg==" />
+            </a>
+          </p>
+          <p><strong>HTML5, CSS3, JavaScript</strong></p>
+          <p>Responsive resort website with optimized booking system, interactive elements, and seamless user experience.</p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">Coming Soon</h3>
+        <div align="center">
+          <a href="#" target="_blank">
+            <img src="https://dummyimage.com/600x400/10B981/ffffff&text=Coming+Soon" width="100%" alt="Project"/>
+          </a>
+          <p>
+            <a href="#" target="_blank">
+              <img src="https://img.shields.io/badge/In_Progress-10B981?style=for-the-badge&logo=github&logoColor=white" />
+            </a>
+          </p>
+          <p><strong>Building something amazing...</strong></p>
+          <p>Working on the next big thing. Stay tuned for updates!</p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
-### Instagram Home Page Redesign | UI/UX Design
-**Nov 2024**
+## 📊 GitHub Analytics
 
-Redesigned Instagram's home page with focus on user experience:
-- Created a clean, user-friendly, and visually appealing interface
-- Implemented a modern and intuitive layout for seamless navigation
-- Balanced aesthetic appeal with enhanced functionality
+<div align="center">
+  <a href="https://github.com/priyaiasdharshini">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=priyaiasdharshini&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true"/>
+  </a>
+  <a href="https://github.com/priyaiasdharshini">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=priyaiasdharshini&theme=midnight-purple&hide_border=true"/>
+  </a>
+</div>
 
-### Rishi Cozy Cabin | Frontend Development
-**Mar 2025**
+## 🌱 Currently Learning
 
-Built a responsive resort website:
-- Designed and implemented user-friendly interface using HTML, CSS, and JavaScript
-- Optimized booking functionality for better conversion rates
-- Enhanced user engagement through interactive elements
-- Improved overall performance for seamless user experience
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-## 📚 Education
+## 🎨 Extracurricular Passions
 
-### Bachelor of Technology - Information Technology
-**Mepco Schlenk Engineering College, Sivakasi, Tamil Nadu**  
-*Aug 2020 - Apr 2024*  
-GPA: 7.2
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <img src="https://raw.githubusercontent.com/priyaiasdharshini/priyaiasdharshini/main/assets/photography.png" width="50px" height="50px"><br>
+        <strong>Photography</strong>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://raw.githubusercontent.com/priyaiasdharshini/priyaiasdharshini/main/assets/travel.png" width="50px" height="50px"><br>
+        <strong>Traveling</strong>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://raw.githubusercontent.com/priyaiasdharshini/priyaiasdharshini/main/assets/badminton.png" width="50px" height="50px"><br>
+        <strong>Badminton</strong>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://raw.githubusercontent.com/priyaiasdharshini/priyaiasdharshini/main/assets/video-editing.png" width="50px" height="50px"><br>
+        <strong>Video Editing</strong>
+      </td>
+    </tr>
+  </table>
+</div>
 
-**Key Courses:**
-- Operating Systems
-- Data Structures
-- Analysis of Algorithms
-- Artificial Intelligence
-- Machine Learning
-- Networking
-- Databases
+## 📬 Get In Touch
 
-## 🏆 Certifications
+<div align="center">
+  <a href="mailto:priyaiasdharshini@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/priyadharshini-e/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/priyaiasdharshini">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
 
-- JavaScript - Guvi (Google education partner)
-- Robotic Process Automation - Guvi (Google education partner)
-- ChatGPT for Everyone - Guvi (Google education partner)
-- UI/UX for Beginners - Great Learning Academy
-- Oxford Achiever - Oxford University
-- Spoken Tutorial for Java - IIT Bombay
-- Data Structures and Algorithms using Python (Parts 1 & 2) - Infosys Springboard
-- Database Management System (Parts 1 & 2) - Infosys Springboard
-- Introduction to NoSQL Databases - Infosys Springboard
-- Object-Oriented Programming using Python - Infosys Springboard
-- Programming Fundamentals using Python (Parts 1 & 2) - Infosys Springboard
-- Software Engineering and Agile Software Development - Infosys Springboard
-- Graphic Designing - Digitech Marketing Solutions (Google partner)
-- Introduction to Data Analytics - Simplilearn Skillup
+<br>
 
-## 🌟 Hobbies & Interests
-
-- 📷 Photography
-- 🧳 Traveling
-- 🏸 Shuttle Badminton
-- 🎬 Video Editing
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
-
-## 📫 How to Reach Me
-
-- 📧 Email: priyaiasdharshini@gmail.com
-- 💼 [LinkedIn Profile](https://www.linkedin.com/in/priyadharshini-e/)
-- 🌐 [GitHub Profile](https://github.com/priyaiasdharshini)
-
----
-
-⭐️ From [Priyadharshini E](https://github.com/priyaiasdharshini)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&fontSize=90" width="100%"/>
+</div>
