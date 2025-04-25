@@ -274,7 +274,7 @@
         <img src="https://progress-bar.dev/45/?title=Progress&width=100&color=E10098" />
       </td>
       <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/React.js-000000?style=for-the-badge&logo=React.js&logoColor=white" />
         <br>
         <img src="https://progress-bar.dev/30/?title=Progress&width=100&color=000000" />
       </td>
