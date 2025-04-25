@@ -2,7 +2,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/priyadharshini-e/)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:priyaiasdharshini@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-%2B91%208838184517-green)](tel:+918838184517)
 
 ## 👋 About Me
 
@@ -127,7 +126,6 @@ GPA: 7.2
 ## 📫 How to Reach Me
 
 - 📧 Email: priyaiasdharshini@gmail.com
-- 📱 Mobile: +91 8838184517
 - 💼 [LinkedIn Profile](https://www.linkedin.com/in/priyadharshini-e/)
 - 🌐 [GitHub Profile](https://github.com/priyaiasdharshini)
 
