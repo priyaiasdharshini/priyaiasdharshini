@@ -18,7 +18,7 @@
     <td width="70%">
       <h3>💫 Information Technology Professional</h3>
       <p>
-        I specialize in creating elegant, user-centric applications that combine beautiful frontend designs with robust backend architectures. My technical foundation is built on strong data structures, algorithms, and software engineering principles.
+        I specialize in creating elegant, user-centric websites that combine beautiful frontend designs with robust backend architectures. My technical foundation is built on strong data structures, algorithms, and software engineering principles.
       </p>
       <p>
         As a lifelong learner, I'm constantly exploring new technologies and methodologies to enhance my skill set and deliver innovative solutions that make a difference.
@@ -85,7 +85,7 @@
     <div style="background: linear-gradient(90deg, #FF5F1F 100%, transparent 0%); height: 10px; width: 200px; border-radius: 5px; margin: 0 auto;"></div>
     <h4>Frontend Developer | Aazad Academy</h4>
     <ul align="left" style="display: inline-block; text-align: left;">
-      <li>Building responsive React applications</li>
+      <li>Building responsive React websites</li>
       <li>Optimizing UX with cross-browser compatibility</li>
       <li>Implementing accessibility standards</li>
     </ul>
