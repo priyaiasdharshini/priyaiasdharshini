@@ -1,346 +1,306 @@
-# PRIYADHARSHINI E
+# <div align="center">PRIYADHARSHINI E</div>
 
 <div align="center">
   
-  ![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=250&section=header&text=Priyadharshini%20E&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20|%20ML%20Enthusiast%20|%20Creative%20Designer&descAlignY=60&descAlign=50)
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation">
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyadharshini-e/)
-  [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyaiasdharshini@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/priyaiasdharshini)
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&center=true&vCenter=true&random=false&width=600&height=80&lines=Full-Stack+Developer;Machine+Learning+Enthusiast;UI%2FUX+Designer;Creative+Problem+Solver" alt="Typing SVG" /></a>
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=priyaiasdharshini&style=for-the-badge&color=blueviolet)
+  <br>
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="500">
+  <br><br>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Front-End+Developer;Machine+Learning+Enthusiast;UI/UX+Designer;Problem+Solver" alt="Typing SVG" />
+  <a href="https://www.linkedin.com/in/priyadharshini-e/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:priyaiasdharshini@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/priyaiasdharshini"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=priyaiasdharshini&style=for-the-badge&color=6A5ACD)
 </div>
 
-## 🌟 About Me
+<!-- Tech Stack 3D Animation -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+</div>
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="40" /> About Me
+
+I'm an Information Technology professional with a passion for creating elegant, user-centric digital experiences that combine beautiful frontend designs with robust backend architectures.
 
 <table>
   <tr>
-    <td width="60%">
-      <h3>💫 Information Technology Professional</h3>
-      <p>
-        I specialize in creating elegant, user-centric websites that combine beautiful frontend designs with robust backend architectures. My technical foundation is built on strong data structures, algorithms, and software engineering principles.
-      </p>
-      <p>
-        As a lifelong learner, I'm constantly exploring new technologies and methodologies to enhance my skill set and deliver innovative solutions that make a difference.
-      </p>
+    <td width="50%">
+      <h3>🚀 What I Do</h3>
+      <ul>
+        <li>🎨 Build responsive and visually appealing web applications</li>
+        <li>🧠 Develop machine learning models for real-world applications</li>
+        <li>🔍 Create user-friendly interfaces with optimal UX</li>
+        <li>💡 Solve complex problems with elegant code solutions</li>
+      </ul>
+      <p><i>As a lifelong learner, I'm constantly exploring new technologies to deliver innovative solutions that make a difference.</i></p>
+    </td>
+    <td width="50%">
       <div align="center">
-        <img src="https://img.shields.io/badge/Focus-Front_End_Development-3498db?style=flat-square&logoColor=white" />
-        <img src="https://img.shields.io/badge/Passion-Machine_Learning-9b59b6?style=flat-square&logoColor=white" />
-        <img src="https://img.shields.io/badge/Goal-Impactful_Solutions-2ecc71?style=flat-square&logoColor=white" />
+        <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="350">
       </div>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyaiasdharshini&layout=compact&theme=tokyonight&hide_border=true" alt="Language Stats" width="90%">
-      <br>
-      <img src="https://raw.githubusercontent.com/priyaiasdharshini/priyaiasdharshini/main/assets/animation.gif" width="180px">
-      <br>
-      <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%" alt="Snake animation" />
     </td>
   </tr>
 </table>
 
 <div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <br>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+  <br>
 </div>
 
-## 🔮 Tech Universe
+## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="40" /> Tech Stack
 
 <div align="center">
-  <h3>Languages & Frameworks</h3>
+  <h3>👨‍💻 Languages & Frameworks</h3>
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="70" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="70" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="70" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="70" />
+  <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="70" />
+  <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="70" />
   
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,java,c,react,nodejs,tensorflow,flask&theme=dark" />
-  
-  <h3>Databases & Cloud</h3>
-  
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,aws,docker,kubernetes,figma&theme=dark" />
-  
-  <h3>Skill Proficiency</h3>
-  
-  <table>
+  <h3>🛠️ Tools & Technologies</h3>
+  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="70" />
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="70" />
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="70" />
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3fb2cdf6-8920-462e-87a4-95af376418aa" width="70" />
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4895-8a6a-a356d8576d99" width="70" />
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="70" />
+</div>
+
+<div align="center">
+  <h3>💡 My Skills</h3>
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="500">
+</div>
+
+<table align="center">
+  <tr>
+    <td>
+      <h4>Front-End Development</h4>
+      <p align="center">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" width="35px" alt="Target"/> 
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" width="35px" alt="Target"/> 
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" width="35px" alt="Target"/> 
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" width="35px" alt="Target"/> 
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/High%20Voltage.png" width="35px" alt="High Voltage"/>
+      </p>
+    </td>
+    <td>
+      <h4>Back-End Development</h4>
+      <p align="center">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" width="35px" alt="Target"/> 
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" width="35px" alt="Target"/> 
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" width="35px" alt="Target"/> 
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" width="35px" alt="Target"/> 
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Star.png" width="35px" alt="Star"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h4>Machine Learning</h4>
+      <p align="center">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" width="35px" alt="Target"/> 
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" width="35px" alt="Target"/> 
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" width="35px" alt="Target"/> 
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" width="35px" alt="Target"/> 
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Star.png" width="35px" alt="Star"/>
+      </p>
+    </td>
+    <td>
+      <h4>Cloud Services</h4>
+      <p align="center">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" width="35px" alt="Target"/> 
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" width="35px" alt="Target"/> 
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" width="35px" alt="Target"/> 
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Star.png" width="35px" alt="Star"/> 
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Star.png" width="35px" alt="Star"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <h3>📱 Currently Learning</h3>
+  <table align="center">
     <tr>
-      <td>Front-End Development</td>
-      <td>
-        <div style="display: flex; align-items: center;">
-          <div style="background-color: #6A5ACD; width: 90%; height: 10px; border-radius: 5px;">
-            <div style="background-color: #6A5ACD; width: 90%; height: 10px; border-radius: 5px;"></div>
-          </div>
-          <span style="margin-left: 10px;">90%</span>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td>Back-End Development</td>
-      <td>
-        <div style="display: flex; align-items: center;">
-          <div style="background-color: #6A5ACD; width: 85%; height: 10px; border-radius: 5px;">
-            <div style="background-color: #6A5ACD; width: 85%; height: 10px; border-radius: 5px;"></div>
-          </div>
-          <span style="margin-left: 10px;">85%</span>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td>Machine Learning</td>
-      <td>
-        <div style="display: flex; align-items: center;">
-          <div style="background-color: #6A5ACD; width: 80%; height: 10px; border-radius: 5px;">
-            <div style="background-color: #6A5ACD; width: 80%; height: 10px; border-radius: 5px;"></div>
-          </div>
-          <span style="margin-left: 10px;">80%</span>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td>Cloud Services</td>
-      <td>
-        <div style="display: flex; align-items: center;">
-          <div style="background-color: #6A5ACD; width: 75%; height: 10px; border-radius: 5px;">
-            <div style="background-color: #6A5ACD; width: 75%; height: 10px; border-radius: 5px;"></div>
-          </div>
-          <span style="margin-left: 10px;">75%</span>
-        </div>
-      </td>
+      <td align="center"><img src="https://img.icons8.com/color/48/000000/nextjs.png" width="70px"/><h4>Next.js</h4></td>
+      <td align="center"><img src="https://img.icons8.com/color/48/000000/graphql.png" width="70px"/><h4>GraphQL</h4></td>
+      <td align="center"><img src="https://img.icons8.com/color/48/000000/react-native.png" width="70px"/><h4>React Native</h4></td>
+      <td align="center"><img src="https://img.icons8.com/color/48/000000/brain.png" width="70px"/><h4>NLP</h4></td>
     </tr>
   </table>
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="700">
 </div>
 
-## 🚀 Professional Journey
+## <img src="https://user-images.githubusercontent.com/74038190/216122065-00ec857a-3d30-4735-89e1-5ae9f6764be5.png" width="40" /> Projects
 
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnpleTN1cDM1NDBhN3I2M3FmNmRtamRvNGx0bWs3aTk3c2VsbTlyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="100">
-  
-  <h3>💼 Experience</h3>
-  <div style="background: linear-gradient(to right, #FF5F1F, #FF8C00); height: 10px; width: 200px; border-radius: 5px; margin: 0 auto;"></div>
-  
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-        <h4>Frontend Developer | Aazad Academy</h4>
-        <ul align="left">
-          <li>Building responsive React websites</li>
-          <li>Optimizing UX with cross-browser compatibility</li>
-          <li>Implementing accessibility standards</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-  
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  
-  <h3>🎓 Education</h3>
-  <div style="background: linear-gradient(to right, #1F51FF, #00BFFF); height: 10px; width: 200px; border-radius: 5px; margin: 0 auto;"></div>
-  
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-university-literature-flaticons-flat-flat-icons.png" width="40" height="40"/>
-        <h4>B.Tech in Information Technology</h4>
-        <p>Mepco Schlenk Engineering College | 2020-2024 | GPA: 7.2</p>
-      </td>
-    </tr>
-  </table>
-  
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  
-  <h3>🏆 Certifications (14)</h3>
-  <div style="background: linear-gradient(to right, #9D00FF, #B14AED); height: 10px; width: 200px; border-radius: 5px; margin: 0 auto;"></div>
-  
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.icons8.com/color/48/000000/certificate.png" width="40" height="40"/>
-        <p>Including credentials from: Guvi, Oxford University, IIT Bombay</p>
-        <div>
-          <img src="https://img.shields.io/badge/Web_Development-5-FF4500?style=flat-square" />
-          <img src="https://img.shields.io/badge/Machine_Learning-4-FF6347?style=flat-square" />
-          <img src="https://img.shields.io/badge/Cloud_Computing-3-FF7F50?style=flat-square" />
-          <img src="https://img.shields.io/badge/Design-2-FF8C00?style=flat-square" />
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
-
-## 💻 Featured Projects
-
-<div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnRtN3dmZmFwcm5wYjFmdjUyM2diM3IxdWh3MTUzZXU2M3U5c3lpYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="400">
 </div>
 
 <table>
   <tr>
-    <td align="center">
-      <div style="position: relative;">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=priyaiasdharshini&repo=diabetic-retinopathy&theme=tokyonight&hide_border=true" alt="Diabetic Retinopathy" width="100%">
-        <img src="https://media3.giphy.com/media/uBdrbVR3xkO5iHzRR5/giphy.gif" width="50" style="position: absolute; top: -20px; right: -20px;">
-      </div>
+    <td width="50%" align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif" width="120px">
       <h3>Diabetic Retinopathy Classification</h3>
-      <p><b>TensorFlow/Keras, Python, OpenCV</b></p>
-      <p>Advanced deep learning system that automatically classifies diabetic retinopathy severity from retinal images with high accuracy.</p>
-    </td>
-    <td align="center">
-      <div style="position: relative;">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=priyaiasdharshini&repo=instagram-redesign&theme=radical&hide_border=true" alt="Instagram Redesign" width="100%">
-        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmNicng1eXRpeDliNGxycjgxMW11ZmxtMm02emVtaHEzZnJ3NTJ2byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="50" style="position: absolute; top: -20px; right: -20px;">
+      <div align="center">
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
       </div>
+      <p>Advanced deep learning system that automatically classifies diabetic retinopathy severity from retinal images with high accuracy.</p>
+      <a href="https://github.com/priyaiasdharshini/diabetic-retinopathy">
+        <img src="https://img.shields.io/badge/View_Project-6A5ACD?style=for-the-badge"/>
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="120px">
       <h3>Instagram Redesign</h3>
-      <p><b>Figma, UX Research, UI Design</b></p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+        <img src="https://img.shields.io/badge/UX_Research-FF61F6?style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/UI_Design-00C7B7?style=for-the-badge"/>
+      </div>
       <p>Modern reimagining of Instagram's interface focusing on cleaner layouts, intuitive navigation, and enhanced visual aesthetics.</p>
+      <a href="https://github.com/priyaiasdharshini/instagram-redesign">
+        <img src="https://img.shields.io/badge/View_Project-6A5ACD?style=for-the-badge"/>
+      </a>
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <div style="position: relative;">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=priyaiasdharshini&repo=rishi-cozy-cabin&theme=prussian&hide_border=true" alt="Rishi Cozy Cabin" width="100%">
-        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHY1ZmJsZ2dmcTJ5cXE3bXMybHY2a2h0eHNlc3ZkdnllMXk3MDk5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="50" style="position: absolute; top: -20px; right: -20px;">
-      </div>
+    <td width="50%" align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="120px">
       <h3>Rishi Cozy Cabin</h3>
-      <p><b>HTML5, CSS3, JavaScript</b></p>
-      <p>Responsive resort website with optimized booking system, interactive elements, and seamless user experience.</p>
-    </td>
-    <td align="center">
-      <div style="position: relative; background-color: #0d1117; border-radius: 6px; padding: 16px; border: 1px solid #30363d;">
-        <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3h6Yms1ZXhqeDJ4dmZoeTh5MXNuOGdnOGxmN3huaDQ5bWdraTM4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="50" style="position: absolute; top: -20px; right: -20px;">
-        <h3 style="color: #58a6ff;">Building something amazing...</h3>
-        <p>Working on the next big thing. Stay tuned for updates!</p>
-        <div style="background: linear-gradient(90deg, #10B981 30%, #30363d 30%); height: 10px; border-radius: 5px;"></div>
-        <p style="text-align: right; font-size: 12px; margin-top: 5px;">30% Complete</p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
       </div>
+      <p>Responsive resort website with optimized booking system, interactive elements, and seamless user experience.</p>
+      <a href="https://github.com/priyaiasdharshini/rishi-cozy-cabin">
+        <img src="https://img.shields.io/badge/View_Project-6A5ACD?style=for-the-badge"/>
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/212284149-711a6baa-5d61-4dee-a139-688be370ae80.gif" width="120px">
+      <h3>Coming Soon!</h3>
+      <div align="center">
+        <div style="width: 300px; height: 20px; background-color: #30363d; border-radius: 10px; overflow: hidden;">
+          <div style="width: 30%; height: 100%; background-color: #10B981;"></div>
+        </div>
+      </div>
+      <p>Working on an exciting new project. Stay tuned for updates!</p>
+      <img src="https://img.shields.io/badge/30%_Complete-10B981?style=for-the-badge"/>
+    </td>
+  </tr>
+</table>
+
+## <img src="https://user-images.githubusercontent.com/74038190/216121964-513bdf95-3c8c-429a-82bc-4eee30a7c7d2.png" width="40" /> Experience & Education
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500">
+</div>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" width="80">
+      <h3>Frontend Developer</h3>
+      <p>Aazad Academy</p>
+      <ul>
+        <li>Building responsive React websites</li>
+        <li>Optimizing UX with cross-browser compatibility</li>
+        <li>Implementing accessibility standards</li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50e9dd4cd.gif" width="80">
+      <h3>B.Tech in Information Technology</h3>
+      <p>Mepco Schlenk Engineering College | 2020-2024</p>
+      <p>GPA: 7.2</p>
     </td>
   </tr>
 </table>
 
 <div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=priyaiasdharshini&theme=nord&no-frame=true&column=7" width="100%" alt="Trophy" />
-</div>
-
-<div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWx0Y2ticWJrNm0xNjg0a296OG1nNWNpaXV2ZDNwdXpieXYwMXRpdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cUAGuLiEcTBwRfkAQq/giphy.gif" width="100">
-</div>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyaiasdharshini&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyaiasdharshini&theme=tokyonight&hide_border=true" width="49%" />
-</p>
-
-<div align="center">
-  <!-- Consider using a GitHub activity graph that's actually working -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyaiasdharshini&theme=react-dark&hide_border=true" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
-
-## 🌱 Currently Learning
-
-<div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmxiYXE5amRvbXFvdngydnI3NHFybWJoaXFzbWx6ejZzd2FqcG9wciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="100">
-  
-  <div align="center">
-    <table>
-      <tr>
-        <td align="center">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
-          <h3>Next.js</h3>
-          <div style="background: linear-gradient(to right, #000000 65%, #e0e0e0 35%); height: 10px; width: 100%; border-radius: 5px;"></div>
-          <p>65%</p>
-        </td>
-        <td align="center">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40" height="40"/>
-          <h3>GraphQL</h3>
-          <div style="background: linear-gradient(to right, #E10098 45%, #e0e0e0 55%); height: 10px; width: 100%; border-radius: 5px;"></div>
-          <p>45%</p>
-        </td>
-      </tr>
-      <tr>
-        <td align="center">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-          <h3>React Native</h3>
-          <div style="background: linear-gradient(to right, #61DAFB 30%, #e0e0e0 70%); height: 10px; width: 100%; border-radius: 5px;"></div>
-          <p>30%</p>
-        </td>
-        <td align="center">
-          <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWhsb3gxZHpsaDExbjlrdHJ0OW1lM2E3ZGNjYzYwZzlzcWM3am9weiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GgDxc8RhlhYBYtMhc6/giphy.gif" width="40" height="40"/>
-          <h3>Natural Language Processing</h3>
-          <div style="background: linear-gradient(to right, #8A2BE2 50%, #e0e0e0 50%); height: 10px; width: 100%; border-radius: 5px;"></div>
-          <p>50%</p>
-        </td>
-      </tr>
-    </table>
-  </div>
-
-  <div align="center" style="margin-top: 20px;">
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHFsc2dmMjEybGVnYnoxejFvbDdqZmx2M2NlajE2ZWQxdGg0MWpiYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif" width="300">
+  <h3>🏆 Certifications (14)</h3>
+  <img src="https://user-images.githubusercontent.com/74038190/216122065-00ec857a-3d30-4735-89e1-5ae9f6764be5.png" width="80">
+  <p>Including credentials from: Guvi, Oxford University, IIT Bombay</p>
+  <div>
+    <img src="https://img.shields.io/badge/Web_Development-5-FF4500?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Machine_Learning-4-FF6347?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Cloud_Computing-3-FF7F50?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Design-2-FF8C00?style=for-the-badge" />
   </div>
 </div>
 
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
-
-## 🎨 Extracurricular Passions
+## <img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6ea13.png" width="40" /> GitHub Stats
 
 <div align="center">
-  <table style="border: none; margin: 20px auto;">
-    <tr>
-      <td align="center" style="border: none; padding: 15px;">
-        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTVtMW15bWs5dnNlb3N1cDdidzU0cnRicTN2dW0wcmhmdWpmdWRkMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12PXNbcHW8C9Bm/giphy.gif" width="80px"><br>
-        <b>Photography</b>
-      </td>
-      <td align="center" style="border: none; padding: 15px;">
-        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY25tZDg0aGFwd2xiN25hdWhvaHV2ejNmcXJrbnhjb2J5cm9va3U5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="80px"><br>
-        <b>Traveling</b>
-      </td>
-      <td align="center" style="border: none; padding: 15px;">
-        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2JlYXZ0dGQwdzg2YWJyM2llM3ExcHBvMDZsZTN0eXRwMHY1d2cxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6ZtpxSZbQRRnwCKQ/giphy.gif" width="80px"><br>
-        <b>Badminton</b>
-      </td>
-      <td align="center" style="border: none; padding: 15px;">
-        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2V1aTBpOGpoNnM2ZnA2dXg2cDRsazhuenM2bzZzYzM0NWNtYzgydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="80px"><br>
-        <b>Video Editing</b>
-      </td>
-    </tr>
-  </table>
-</div>
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
-
-## 📬 Get In Touch
-
-<div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTNsbTl2bHI1eDJkOTdyaW9kbHU5Y2k5M245cndvdHM2ZDc5bHdtbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5WJf8xtMP7tcuZpYEc/giphy.gif" width="100">
+  <img src="https://github-profile-trophy.vercel.app/?username=priyaiasdharshini&theme=radical&no-frame=true&column=7&row=1" width="100%" alt="Trophy" />
   
-  <div style="margin: 20px 0;">
-    <a href="mailto:priyaiasdharshini@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-    <a href="https://www.linkedin.com/in/priyadharshini-e/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="https://github.com/priyaiasdharshini">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    </a>
-  </div>
+  <img src="https://github-readme-stats.vercel.app/api?username=priyaiasdharshini&show_icons=true&theme=radical&hide_border=true&border_radius=10" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyaiasdharshini&theme=radical&hide_border=true&border_radius=10" width="49%" />
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyaiasdharshini&theme=redical&hide_border=true&area=true&custom_title=Contribution%20Graph" width="95%" />
+</div>
+
+## <img src="https://user-images.githubusercontent.com/74038190/216121986-99408a65-994a-4d7a-8df3-9008289dbb76.png" width="40" /> Hobbies & Interests
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="300">
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Camera%20with%20Flash.png" width="80px">
+      <h3>Photography</h3>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/World%20Map.png" width="80px">
+      <h3>Traveling</h3>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Badminton.png" width="80px">
+      <h3>Badminton</h3>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clapper%20Board.png" width="80px">
+      <h3>Video Editing</h3>
+    </td>
+  </tr>
+</table>
+
+## <img src="https://user-images.githubusercontent.com/74038190/235223576-c8621224-7294-4225-b204-ad5ac60e677e.gif" width="40" /> Let's Connect
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/235294002-8aafea24-3179-45af-91d9-412a3af7ec6c.gif" width="100">
+  <br><br>
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=120&section=footer" width="100%">
+  <a href="mailto:priyaiasdharshini@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/priyadharshini-e/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/priyaiasdharshini">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  
+  <br><br>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+  
+  <br><br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=65" width="100%">
 </div>
