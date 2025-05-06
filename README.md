@@ -254,14 +254,41 @@
 <div align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmxiYXE5amRvbXFvdngydnI3NHFybWJoaXFzbWx6ejZzd2FqcG9wciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="100">
   
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 20px;">
-    <div style="text-align: center; width: 150px;">
-      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-      <div style="width: 100%; height: 10px; background-color: #e0e0e0; border-radius: 5px; margin: 5px auto;">
-        <div style="width: 65%; height: 10px; background-color: #000000; border-radius: 5px;"></div>
-      </div>
-      <span>65%</span>
-    </div>
+  <div align="center">
+    <table>
+      <tr>
+        <td align="center">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
+          <h3>Next.js</h3>
+          <div style="background: linear-gradient(to right, #000000 65%, #e0e0e0 35%); height: 10px; width: 100%; border-radius: 5px;"></div>
+          <p>65%</p>
+        </td>
+        <td align="center">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40" height="40"/>
+          <h3>GraphQL</h3>
+          <div style="background: linear-gradient(to right, #E10098 45%, #e0e0e0 55%); height: 10px; width: 100%; border-radius: 5px;"></div>
+          <p>45%</p>
+        </td>
+      </tr>
+      <tr>
+        <td align="center">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+          <h3>React Native</h3>
+          <div style="background: linear-gradient(to right, #61DAFB 30%, #e0e0e0 70%); height: 10px; width: 100%; border-radius: 5px;"></div>
+          <p>30%</p>
+        </td>
+        <td align="center">
+          <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWhsb3gxZHpsaDExbjlrdHJ0OW1lM2E3ZGNjYzYwZzlzcWM3am9weiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GgDxc8RhlhYBYtMhc6/giphy.gif" width="40" height="40"/>
+          <h3>Natural Language Processing</h3>
+          <div style="background: linear-gradient(to right, #8A2BE2 50%, #e0e0e0 50%); height: 10px; width: 100%; border-radius: 5px;"></div>
+          <p>50%</p>
+        </td>
+      </tr>
+    </table>
+  </div>
+
+  <div align="center" style="margin-top: 20px;">
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHFsc2dmMjEybGVnYnoxejFvbDdqZmx2M2NlajE2ZWQxdGg0MWpiYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif" width="300">
   </div>
 </div>
 
